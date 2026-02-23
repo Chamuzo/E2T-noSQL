@@ -7,7 +7,7 @@ SQL.
         Las columnas tienen tipo de dato obligatorio.
         No se pueden insertar datos que no cumplan ese esquema.
         Esto aporta orden y consistencia, pero tambien introduce rigidez.
-           
+
     Relaciones entre tablas mediante claves:
         Uno de los puntos fuertes del modelorelacional es la capacidad de relacionar datos entre distintas tablas:
             Clave primaria
