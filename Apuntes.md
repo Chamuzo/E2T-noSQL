@@ -1,11 +1,11 @@
 # E2T-noSQL
 
-SQL
-    Modelo relacional
-    Estructura basada en tablas con esquemas fijos
+SQL.
+    Modelo relacional:
+        Estructura basada en tablas con esquemas fijos.
         Cada tabla tiene un esquema definido previamente.
         Las columnas tienen tipo de dato obligatorio.
-        No se pueden insertar datos que no cumplan ese esquema
+        No se pueden insertar datos que no cumplan ese esquema.
         Esto aporta orden y consistencia, pero tambien introduce rigidez.
         
     Relaciones entre tablas mediante claves:
