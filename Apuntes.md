@@ -13,7 +13,6 @@ SQL.
             Clave primaria
             Clave foranea
     SQL (Structured Query Language)
-
     #CRUD (Create, Read, Update, Delete)
     #ACID (Atomicity,Consistency,Isolation,Durability)
         Atomicidad: Una transaccion se ejecuta completamente o no se ejecuta.
